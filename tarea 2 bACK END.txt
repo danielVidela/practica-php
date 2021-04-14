@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Trabajo practico N 1 DAniel Videla</title>
+    <title>Trabajo Practico N 1 Daniel Videla</title>
   </head>
   <body>
     <h1>Hello World</h1>
