@@ -8,7 +8,7 @@
     <h2>Punto Numero 1</h2>
     <?php
       $n=20;
-      if ($n>1) {echo "$n=es un numero Positivo<br>";
+      if ($n>0) {echo "$n=es un numero Positivo<br>";
         // code...
       }else {echo "$n=es un numero negativo<br>";
         // code..}
