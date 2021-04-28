@@ -1,0 +1,37 @@
+h1 {text-align: center;
+    }
+body {background-color: grey}
+
+div {
+    background-color: white;
+    font-family: fantasy ;
+    width: 50%;
+    float: center;
+    margin: 1%;
+    padding: 5%;
+    border: 10px solid black;
+    height: auto;
+    overflow: auto;
+    box-sizing: border-box;
+    }
+
+.three-columns {
+  text-align: center;
+column-count: 10;
+ column-gap: 5px;
+ column-rule: 2px solid grey;
+  }
+section {text-align: center;
+    background-color: white;
+    font-family: fantasy ;
+    width: 50%;
+    float: center;
+    margin: 1%;
+    padding: 5%;
+    border: 10px solid black;
+    height: auto;
+    overflow: auto;
+    box-sizing: border-box;
+    }
+footer{text-align: center;
+  }
