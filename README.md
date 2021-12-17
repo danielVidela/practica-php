@@ -1,2 +1,2 @@
 # practica-php
-tarea trabajo practico php
+Ejercicios realizados en curso PHP
